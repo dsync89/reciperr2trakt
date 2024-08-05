@@ -2,6 +2,8 @@
 
 A no-nonsense program to import Reciperr JSON list (StevenLu List) to your Trakt List. 
 
+See https://dsync89.com/guides/homelab/virtual-live-tv/export-reciperr-list-to-trakt/ for complete tutorial to setting this up.
+
 Make sure to generate API token from your Trakt account.
 
 Replace the following variables:
